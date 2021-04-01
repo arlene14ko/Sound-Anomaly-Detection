@@ -1,5 +1,5 @@
 ______________________________________________________________________________________________________________________________________________________
-# CODIT Machine Conditions Monitoring
+# Sound Anomaly Detection
 
 - Developer Names : `Vincent Rolin and Arlene Postrado`
 - Level: `Junior Data Scientist`
